@@ -1,2 +1,1 @@
-# quiz-kopia
- quiz-kopia
+# Quiz
